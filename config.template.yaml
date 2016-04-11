@@ -1,0 +1,6 @@
+# fill out the blanks and save this file as config.yaml
+:bot_jid: yourbot@yourdomain
+:bot_password: yourpassword
+:bot_alias: bot
+:bot_status: Talking the talk!
+:chat_jid: yourchatroom@yourdomain
